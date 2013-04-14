@@ -57,7 +57,7 @@ iBooks Authorは、アップルの電子書籍アプリケーションです。i
 
 iBooks Authorの紹介ビデオを観てみましょう。
 
-### iBooks Textbooks - Apple Education Event, January 2012 (Full Keynote)
+* [iBooks Textbooks - Apple Education Event, January 2012 (Full Keynote)](http://www.youtube.com/watch?v=2fMZj2CdM4I)
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/2fMZj2CdM4I" frameborder="0" allowfullscreen></iframe>
 
