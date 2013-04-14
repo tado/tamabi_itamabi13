@@ -112,8 +112,10 @@ iPad 上でプレビューすることで、作業中（公開前）に読者と
 * できれば、写真やイラストなどを活用して、楽しいデザインに!
 * さらに余裕がある方は、動画や音声などが貼りつけられないかトライしてみる。
 
-#### 参考リンク
-[Apple - サポート - iBooks Author](http://www.apple.com/jp/support/ibooksauthor/)
+### 参考リンク
+* [アップル - iBooks Author](http://www.apple.com/jp/ibooks-author/) - iBooks Authorビデオを見る
+* [Apple - サポート - iBooks Author](http://www.apple.com/jp/support/ibooksauthor/)
+
 
 
 
