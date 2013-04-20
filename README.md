@@ -11,8 +11,8 @@ iTamabi on iTunes U 2013 – iBooks Authorでつくるオープン・エデュ�
 
 ## 授業スケジュール (予定)
 
-* オリエンテーション、この授業で何をするのか?
-* iBooks Authorの基礎 1 – 簡単な文書をつくってみる
+* [オリエンテーション、この授業で何をするのか?](https://github.com/tado/tamabi_itamabi13/blob/master/itamabi130415.md)
+* [iBooks Authorの基礎 1 – 簡単な文書をつくってみる](https://github.com/tado/tamabi_itamabi13/blob/master/itamabi130422.md)
 * iBooks Authorの基礎 2 – テンプレート、テーマ、
 * iBooks Authorの基礎 3 – 様々なメディアを使う、動画、音声
 * iBooks Author応用 1 – インタラクティブな仕組みを作成
