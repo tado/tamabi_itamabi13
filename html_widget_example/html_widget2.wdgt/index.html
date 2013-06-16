@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>時計</title>
+	<style>
+	body{
+		width:800px;
+		margin:2em auto;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+	h1 {
+		color:#3399cc;
+		border-bottom: 1px solid #3399cc;
+	}	
+	#time {
+		color:#666666;
+		font-size:120px;
+	}
+	</style>
+</head>
+<body>
+	<h1>iBooks Clock</h1>
+	<p>現在の時刻</p>
+	<output id="time">00:00:00</output>
+	<script>
+	setInterval(function(){
+		var dateObj = new Date();
+		var h = dateObj.getHours();
+		var m = dateObj.getMinutes();
+		var s = dateObj.getSeconds();
+		var timeStr = h + " : "+m+" : "+s;
+		document.getElementById("time").innerHTML = timeStr;
+	}, 1000);
+	</script>
+</body>
+</html>
