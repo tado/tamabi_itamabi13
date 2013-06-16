@@ -1,5 +1,11 @@
 # iBooks Author応用: HTMLウィジットを使う
 
+## サンプルファイルのダウンロード
+
+以下の解説で使用したサンプルは、下記からダウンロードしてください。
+
+* [サンプルファイルダウンロード(Google Driveにリンク)](https://docs.google.com/file/d/0BzyVHU69QO3mM29NRS1NbTFtczQ/edit?usp=sharing)
+
 ## HTMLウィジットとは
 
 ![image](img/130617/html_widget_icon.jpg)
